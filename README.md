@@ -12,11 +12,11 @@
 ## 2. AMBA Architecture:
 Open standard to connect and manage functional blocks in a system-on-chip (SoC)
 
-![image](images/AMPA ARCHITECTURE.PNG)
+![image](images/AMPA.PNG)
 
 ## 3. Interface Diagram:
 
-![image](images/Interface Diagram.PNG)
+![image](images/interface_diagram.PNG)
 
 ## 4. Interface signals:
 | Signal name   | Signal width      | Description                      
