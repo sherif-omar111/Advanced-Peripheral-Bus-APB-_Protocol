@@ -35,7 +35,7 @@ Open standard to connect and manage functional blocks in a system-on-chip (SoC)
 
 ## 5. UVM Architecture:
 
-![image]()
+![image](images/env.PNG)
 
 ## 6. Sequence items:
 apb_seq_item
@@ -56,12 +56,12 @@ apb_seq_item
 | apb_test_all	     | reset -> write -> read -> error
 
 ### Test all 
-![image]()
+![image](images/test_all.PNG)
 
 
 ## 9. Coverage:
 
-![image]()
+![image](images/coverage.PNG)
 
-![image]()
+![image](images/cover.PNG)
 
