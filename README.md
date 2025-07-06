@@ -58,12 +58,10 @@ apb_seq_item
 ### Test all 
 ![image]()
 
-## 9. Assertions:
+
+## 9. Coverage:
 
 ![image]()
-
-
-## 10. Coverage:
 
 ![image]()
 
